@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.10",
     "siteFonts": [],
-    "uniqCompNum": 59,
+    "uniqCompNum": 61,
     "versionPublish": "4.10.10",
     "screenshot": "screenshot.png"
   },
@@ -49,7 +49,7 @@
           },
           "title": "李媛媛/Li Yuanyuan",
           "text": "<br>女，22岁，目前为南京大学新闻传播学院在读研究生，师从王成军副教授，主修计算传播方向。<br><br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#msg-box4-a\" data-toolbar=\"-mbrBtnMove\">教育经历</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">实习经历</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">学生工作经历</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#msg-box4-a\" data-toolbar=\"-mbrBtnMove\">教育经历</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#features1-1f\" data-toolbar=\"-mbrBtnMove\">实习经历</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#slider-1e\" data-toolbar=\"-mbrBtnMove\">学生工作经历</a>",
           "_tags": [
             "主题"
           ],
@@ -71,7 +71,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
@@ -177,7 +177,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://v.qq.com/x/page/e05457ndtx9.html",
+              "src": "https://v.qq.com/x/page/e05457ndtx9.html?start=47",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": "on",
@@ -448,7 +448,7 @@
           },
           "title": "我的作品",
           "text": "本科时期我就读于南大新传院广告系，专业相关课程有设计、策划、摄影等，此外也担任过分管宣传的南大社联副主席、苏宁校园运营官、51job雇主品牌策划助理等职务，在学习和实习期间做过一些设计和策划作品，多有不足，请批评指正。<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">设计作品</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">策划作品</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">其他作品</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#header3-h\" data-toolbar=\"-mbrBtnMove\">设计作品</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#header3-1d\" data-toolbar=\"-mbrBtnMove\">策划作品</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#header3-1i\" data-toolbar=\"-mbrBtnMove\">其他作品</a>",
           "_tags": [
             "主题"
           ],
@@ -559,7 +559,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-2000x30320.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x30321.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -983,18 +983,31 @@
           "_anchor": "msg-box4-1k"
         },
         {
-          "_inherit": "header1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "showTitle": true,
+            "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "left",
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg2.jpg",
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#3c3c3c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1003,20 +1016,34 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "9月10日组会",
-          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/u40912774993691941031fm11gp0-500x275.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "人工智能会为人类带来什么？",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9月10日，与导师第一次组会，王成军老师抛给了我们一个问题：“人工智能会为人类带来什么？”\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; 单纯开脑洞，大家提出了许多想法，比如人工智能的发展可能会大规模取代人类的工作，从而导致人类出现就业危机。但这还是一个浅而易见的结论，顺着这个思路继续往下，当人类的大部分劳动工作被人工智能代劳了之后，会发生什么呢？我认为可能会发生两种方向——一种可能是，当人工智能为人类创造足够多的财富和空闲时间之后，大部分人工作将不再是生存必需，也许就是时候实现马克思共产主义社会的构想，即每一个人都可以按照自己的意愿自由发展，劳动不再具有强迫性，而是成为发挥人的才干和力量的活动，人生快乐的源泉和动力，人类社会也将人工智能而进入一个全新的发展阶段；上面一种是非常乐观的结果，然而另一种可能是，由于人类的智力发展速度远不及人工智能的智力发展速度，当人工智能发展到一定阶段之后，人类的大部分功能被人工智能取代，由于人本能的惰性，人类可能沦为人工智能的附庸或者成为人工智能的“宠物”，就像人类实现对猫狗等小动物的智力碾压，为它们创造着财富，它们不再需要自己付出努力去觅食，但是也将自己的自主权让渡了出去，由人类决定它们的是生是死、是否可以繁衍后代、后代要怎么训练等等——只不过未来可能是人工智能将扮演现在人的角色，而人变成了阿猫阿狗。\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; 以上的设想都只能是设想，在目前无法证实也无法证伪，如果想要成文尚需强有力的实证支撑。老师最后提出了<b>一个</b>目前可以着手证明的有趣的议题：人工智能会让人类的很多工作消失是必然的，也有一些研究证明人类的一些工作已经被人工智能所取代，然而究竟是什么样的工作容易被取代，而这些被取代的工作中又是哪一部分因素决定了它容易被取代，这个问题无疑具有更大的现实意义，对预测未来走势和为人们工作及学习专业的选择提供指导价值。目前我们实验室也将聚焦这一课题，进行相关的数据追踪和研究。</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "主题"
           ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header2",
-          "_anchor": "header2-1l",
-          "_styles": {
-            "H1": {
-              "font-size": "25px"
-            }
-          }
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1o"
         },
         {
           "_params": {
@@ -1371,7 +1398,7 @@
             "color": "#4c6972",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我的简历</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我的作品</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我的学术思考</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我曾获得的荣誉</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">联系我</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-5\">我的简历</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-6\">我的作品</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header2-7\">我的学术思考</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-e\">我曾获得的荣誉</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-1m\">联系我</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -1454,269 +1481,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>江苏省南京市栖霞区仙林大道163号南京大学仙林校区新闻传播学院",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: andrea_lyy@163.com<br>\nPhone: 15050520512<br>",
-          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
-          "_tags": [
-            "主题"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1m"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Page 2",
-        "order": 2
-      },
-      "components": [
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7c706b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-20190917214000-1400x1867.jpeg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "南京大学新闻传播学院广告学系 本科",
-          "text": "<p>主修课程： 广告学概论、中外广告史、广告文案写作、广告伦理与法规、市场营销学、公共关系学、市场调查与分析、新媒体广告、电子商务、广告决策与管理、广告策划与创意</p>",
-          "_tags": [
-            "主题"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff",
-              "text-align": "left"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext B": {
-              "font-size": "22px"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "<b>2015.09-2019.06 </b>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-15"
-        },
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#4c6972"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#4c6972",
-            "hamburgerColor": "#ffffff"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我的简历</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我的作品</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我的学术思考</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我曾获得的荣誉</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">联系我</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-20190318150823-2000x4216.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">李媛媛的网站</a>",
-          "_tags": [
-            "主题"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1g"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-20190318150823-265x471.jpg",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>江苏省南京市栖霞区仙林大道163号南京大学仙林校区新闻传播学院",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: andrea_lyy@163.com<br>\nPhone: 15050520512<br>",
-          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
-          "_tags": [
-            "主题"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1m"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "meta_descr": "Web Site Maker Description",
-        "title": "Page 3",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#4c6972"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#4c6972",
-            "hamburgerColor": "#ffffff"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我的简历</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我的作品</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我的学术思考</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">我曾获得的荣誉</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">联系我</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-20190318150823-2000x4216.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">李媛媛的网站</a>",
-          "_tags": [
-            "主题"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1g"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-20190318150823-265x471.jpg",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>江苏省南京市栖霞区仙林大道163号南京大学仙林校区新闻传播学院",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: andrea_lyy@163.com<br>\nPhone: 15050520512<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: andrea_lyy@163.com<br>\nQQ: 1473709887<br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "主题"
